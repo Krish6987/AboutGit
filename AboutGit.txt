@@ -1,0 +1,15 @@
+Source Code Management (What, Why, How)
+SCM tools(tortise svn, mercural, git)
+Git
+Git tools (Github, Gitlab, Bitbucket)
+Git commands(Focus on commits, push, pull, merge, branch, checkout, rollback)
+Repositories(types)
+Forking
+Merge conflict
+Merging strategies
+      * Fast Forward (git rebase)
+      * Recursive
+      * Ours
+      * Octopus
+      * Resolve
+      * Subtree
