@@ -17,7 +17,7 @@ Merging strategies
 
                     master  <-  developer   <- feature3    <- feature2    <-  feature1
 
-                    master   <- developer
+                    master  <-  developer
                                             <-  feature3
                                             <-  feature2
                                             <-  feature1
