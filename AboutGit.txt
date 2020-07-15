@@ -13,3 +13,11 @@ Merging strategies
       * Octopus
       * Resolve
       * Subtree
+
+
+                    master  <-  developer   <- feature3    <- feature2    <-  feature1
+
+                    master   <- developer
+                                            <-  feature3
+                                            <-  feature2
+                                            <-  feature1
