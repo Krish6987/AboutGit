@@ -2,6 +2,7 @@ Source Code Management (What, Why, How)
 SCM tools(tortise svn, mercural, git)
 Git
 Github, Gitlab, Bitbucket
+Repositories(Public, Private)
 Git commands(Focus on commits, push, pull, merge, branch, checkout, rollback)
 Repositories(types)
 Forking
